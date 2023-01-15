@@ -1,2 +1,2 @@
 # instagramImageCrawling
-chromedriver & opencv 
+chromedriver & opencv 이용
