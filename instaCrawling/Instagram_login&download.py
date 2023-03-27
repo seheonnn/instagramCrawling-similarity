@@ -21,8 +21,9 @@ headers = \
 chrome = '/Users/hoseheon/Desktop/python_study/chromedriver'
 browser = webdriver.Chrome(executable_path=chrome)
 
-ID = '5hnnnn'
-PW = '!!'
+# Instagram ID & PW
+ID = ''
+PW = ''
 
 url = 'https://www.instagram.com/accounts/login/'
 browser.get(url)
